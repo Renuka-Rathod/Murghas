@@ -1,0 +1,105 @@
+.min-h-screen{
+	min-height: 100vh;
+}
+
+.bg-green{
+	background-color: forestgreen;
+	max-width: 100% ;
+}
+
+.mx-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.flex{
+	display: flex;
+}
+
+.items-center{
+	align-items: center;
+}
+
+.justify-between{
+	justify-content: space-between;
+}
+
+.justify-center{
+	justify-content: center;
+}
+
+.flex-col{
+	flex-direction: column;
+}
+
+.flex-col1{
+	flex-direction: row;
+}
+
+
+.font-bold{
+	font-weight: bolder;
+}
+
+.flex-direction{
+flex-direction: row;
+}
+
+.my-1{
+	margin-top: 13px;
+	margin-bottom:13px ;
+}
+
+.my-2{
+	margin-top: 26px;
+	margin-bottom:26px;
+	margin-left: 49px;
+	
+}
+
+.my-4{
+	margin-top: 26px;
+	margin-bottom:26px ;
+	padding-left: 4vw;
+}
+
+.px-2{
+	padding-left: 13px;
+	padding-right: 13px;
+}
+
+.text-blue{
+	color: yellow;
+}
+
+.btn{
+	padding: 8px 19px;
+	border: 2px yellowgreen;
+	border-radius: 6px;
+	color: yellow;
+	cursor: pointer;
+	background-color: darkgreen;
+	font-weight: bold;
+	margin: 0 3px;
+}
+
+.button{
+	color: white	;
+	background-color: black;
+}
+
+.button:hover{
+	background-color: white;
+	color: black;
+	
+}
+
+.text-center{
+	text-align: center;
+}
+
+.video{
+	
+	padding-bottom: 20px;
+	
+}
